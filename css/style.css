@@ -13,6 +13,9 @@
     height: 70vh;
     
 }
+.custom-margin{
+    margin-left: 250px;
+}
 .carousel-item img{
     height: 70vh;
 }

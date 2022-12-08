@@ -1,13 +1,38 @@
 .hero .content{
+    height: 80vh;
     position: absolute;
     top: 0;
     left: 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 250px;
 }
 .custom-size{
     position: relative;
-    height: 80vh;
+    height: 70vh;
     
+}
+.carousel-item img{
+    height: 70vh;
+}
+.content .text{
+    text-align: center;
+    color: white;
+}
+.content .text button{
+    padding: 10px;
+    background: white;
+    color: green;
+    border-radius: 50px;
+    border-color: transparent;
+}
+.service{
+    height: 50vh;
+    
+}
+footer{
+    height: 30vh;
+    color:white;
+    padding: 20px;
 }

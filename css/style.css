@@ -1,0 +1,13 @@
+.hero .content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custom-size{
+    position: relative;
+    height: 80vh;
+    
+}
